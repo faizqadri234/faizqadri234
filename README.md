@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/83703685?v=4" width="150" style="border-radius:50%;" alt="Muhammad Faiz"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Faiz</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan, specializing in Mobile App Development</h3>
 
